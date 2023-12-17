@@ -6,7 +6,7 @@ Este repositório foi criado com base nos exercícios passados em aula pelo meu 
 
 ## Conteúdo
 - Conceitos trabalhadas: sistemas digitais, máquina de estados e implementação por meio de design esquemático.
-- Os códigos desenvolvidos desenvolvidos nas linguagens: Verilog, VHDL e através de design esquemático.
+- Códigos desenvolvidos nas linguagens: Verilog, VHDL e através de design esquemático.
 
 ## Como Usar
 
